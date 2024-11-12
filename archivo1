@@ -1,0 +1,5 @@
+sudo groupadd alumnos
+sudo groupadd profesores
+sudo useradd -m -G alumnos -e 2028-12-31 alum1
+sudo useradd -m -G alumnos -e 2028-12-31 alum2
+sudo useradd -m -G profesores usuadm
