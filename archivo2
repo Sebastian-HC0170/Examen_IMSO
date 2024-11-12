@@ -1,0 +1,8 @@
+mkdir /home/alum1
+mkdir /home/alum2
+mkdir /home/usuadm/compartir
+touch /home/alum1/listado.txt
+touch /home/alum1/prueba.txt
+touch /home/alum2/docum.txt
+touch /home/usuadm/notas.txt
+touch /home/usuadm/compartir/ejercicios.txt
